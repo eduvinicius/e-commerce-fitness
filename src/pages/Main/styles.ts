@@ -1,6 +1,45 @@
 import styled from 'styled-components'
 
-export const Container = styled.div`
-  text-align: center;
-  margin-top: 2rem;
+export const Container = styled.main`
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+
+
+  section {
+
+    flex: 1;
+    width: 100%;
+    height: 100vh;
+    overflow-y: auto;
+    padding: 2rem 1.875rem;
+
+    img {
+      width: 20rem;
+      margin-bottom: 2rem;
+    }
+
+    @media (max-width: 720px) {
+      display: flex;
+      flex-direction: column;
+      padding-bottom: 8rem;
+
+      img, label {
+        align-self: center;
+      }
+    }
+
+    label {
+      font-weight: bold;
+      font-size: 24px;
+      span {
+        color: ${({theme}) => theme.colors.indigo}
+      }
+
+    }
+  }
+
+
 `
+

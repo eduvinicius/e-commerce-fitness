@@ -1,0 +1,162 @@
+{
+    "sups": [
+        {
+            "id": 1,
+            "item": "suplementos",
+            "name": "Whey",
+            "description": "Alcance sua meta diária de proteínas!",
+            "price": 199.90,
+            "image": "https://i.imgur.com/3LpdhmF.jpeg "
+        },
+        {
+            "id": 2,
+            "item": "suplementos",
+            "name": "Creatina",
+            "description": "Melhore seu rendimento com a creatina!",
+            "price": 149.90,
+            "image": "https://cf.shopee.com.br/file/af61700595e1dc098fdc93574b5984cc "
+        },
+        {
+            "id": 3,
+            "item": "suplementos",
+            "name": "Albumina",
+            "description":" Alcance sua meta diária de proteínas!",
+            "price": 59.90,
+            "image": "https://images.tcdn.com.br/img/img_prod/805151/albumina_naturovos_natural_500g_1545_1_520ac5c1ce4e5564a7db7e185788eac2.jpg "
+        },
+        {
+            "id": 4,
+            "item": "suplementos",
+            "name": "Cafeína",
+            "description": "Melhore o desempenho do seu treino!",
+            "price": 79.90,
+            "image": "https://drogariasp.vteximg.com.br/arquivos/ids/781122-1000-1000/700290---v-it-care-cafeina-200mg-60-capsulas.jpg?v=637998137709270000 "
+        },
+        {
+            "id": 5,
+            "item": "suplementos",
+            "name": "Proteína da Soja",
+            "description": "Alcance sua meta diária de proteínas!",
+            "price": 59.90,
+            "image": "https://cdn.sanity.io/images/263h0ltd/production/ebbec7f1d39419f51be25b9fceed7e44daa038d4-1000x1000.webp"
+        },
+        {
+            "id": 6,
+            "item": "suplementos",
+            "name": "Proteína do Arroz",
+            "description": "Alcance sua meta diária de proteínas!",
+            "price": 49.90,
+            "image": "https://cf.shopee.com.br/file/a9f437bb60e90f0ec2ee35ef60bdeefc "
+        },
+        {
+            "id": 7,
+            "item": "suplementos",
+            "name": "Multivitamínico",
+            "description": "Melhore seu sistema imune!",
+            "price": 39.90,
+            "image": "https://cdn.awsli.com.br/600x450/924/924345/produto/43985011/4f61743c80.jpg"
+        },
+        {
+            "id": 8,
+            "item": "suplementos",
+            "name": "Dextrose",
+            "description": "Suplemento a base de carboidrato!",
+            "price": 89.90,
+            "image": "https://cf.shopee.com.br/file/93cdf3dc47b92e9c4139f8cf4ef83e66"
+        }
+    ],
+
+    "equips": [
+        {
+            "id": 1,
+            "item": "Acessórios Fitness",
+            "name": "Colchonete Fitness",
+            "description": "Colchonete confortável para exercícios!",
+            "price": 34.90,
+            "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(95)/boxfitne/catalog/bling/60da07f32d1d3.jpeg" 
+        },
+        {
+            "id": 2,
+            "item": "Acessórios Fitness",
+            "name": "Tera Band",
+            "description": "Fortaleça seus músculos com o Tera Band!",
+            "price": 49.90,
+            "image": "https://a-static.mlcdn.com.br/1500x1500/faixa-elastica-kit-thera-band-mbfit/sportcore/9534912945/62fbb6359e2f8f6f97363ddee611b8d4.jpg" 
+        },
+        {
+            "id": 3,
+            "item": "Acessórios Fitness",
+            "name": "Kettlebell",
+            "description": "Peso para exercício!",
+            "price": 89.90,
+            "image": "https://a-static.mlcdn.com.br/1500x1500/kettlebell-pintado-12-kg-fixa-para-academia-fitness-natural-fitness/naturalfitnessartesportivos/9393692434/638609f7d8018b63bdd0aee7abdaccbd.jpg" 
+        },
+        {
+            "id": 4,
+            "item": "Acessórios Fitness",
+            "name": "Bola Suiça 75cm",
+            "description": "Bola confortável para se exercitar!",
+            "price": 59.90,
+            "image": "https://img.irroba.com.br/fit-in/1000x1000/filters:fill(fff):quality(95)/naturalf/catalog/elasticos/bola-suica-75-cmpng.jpg" 
+        },
+        {
+            "id": 5,
+            "item": "Acessórios Fitness",
+            "name": "Rolo de Abdominal",
+            "description": "Fortaleça seu abdômen!",
+            "price": 59.90,
+            "image": "https://m.media-amazon.com/images/I/61VCZ90gxyL._AC_SY450_.jpg"
+        }
+    ],
+
+    "ant": [
+        {
+            "id": 1,
+            "item": "Avaliação Física",
+            "name": "Adipômetro Sanny",
+            "description": "Aparelho para captar dobras cutâneas!",
+            "price": 900,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/kit_adipometro_cientifico_leitura_direta_com_trena_e_disco_de_imc_sanny_ad1011_ldc_65_1_0037967821db6d5f930e6331f9caa7f5.jpg"
+        },
+        {
+            "id": 2,
+            "item": "Avaliação Física",
+            "name": "Bioimpedância",
+            "description": "Excelente aparelho para captar a composição corporal!",
+            "price": 12400,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/bioimpedancia_tetrapolar_sanny_cod_bia1010_5_1_20220816180058.jpg"
+        },
+        {
+            "id": 3,
+            "item": "Avaliação Física",
+            "name": "Balança com bioimpedância",
+            "description": "balança com função de bioimpedância!",
+            "price": 230,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/balanca_com_bioimpedancia_techline_tec117_25_1_20220816180023.jpg"
+        },
+        {
+            "id": 4,
+            "item": "Avaliação Física",
+            "name": "Trena Antropométrica",
+            "description": "Excelente para pegar medidas!",
+            "price": 30,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/trena_antropometrica_de_fibra_sanny_tr4013_47_1_20220816180035.jpg"
+        },
+        {
+            "id": 5,
+            "item": "Avaliação Física",
+            "name": "Banco de Wells",
+            "description": "Teste sua flexibilidade!",
+            "price": 427,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/banco_de_wells_portatil_instant_pro_sanny_bw2005_87_1_20220816180058.jpg"
+        },
+        {
+            "id": 6,
+            "item": "Avaliação Física",
+            "name": "Marcador de Dobras Cutâneas",
+            "description": "Excelente para melhorar a qualidade da avaliação!",
+            "price": 49,
+            "image": "https://images.tcdn.com.br/img/img_prod/706165/marcador_de_dobras_cutaneas_sanny_mdc1010_63_1_20220816175954.jpg"
+        }
+    ]
+}
